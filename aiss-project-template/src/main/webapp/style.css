@@ -1,0 +1,113 @@
+@CHARSET "ISO-8859-1";
+
+h1 {
+	font-size: 2em;
+	font-weight: bold;
+	color: #777777;
+	margin: 40px 0px 70px;
+	text-align: center;
+}
+
+#topBanner {
+	text-align: left;
+}
+
+
+#boton2{
+	 text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+#searchDiv {
+	text-align: center;
+}
+
+table {
+	border-collapse: separate;
+	border-spacing: 2px;
+	background: #000 ;
+	color: #fff;
+}
+
+td, th {
+	background: #fff;
+	color: #000;
+	
+}
+
+
+
+
+
+legend {
+	font: oblique bold 100% cursive;
+	padding: 0.29em ;
+	border: 5px solid gray;
+	font-size: 90%;
+	text-align: center;
+}
+
+
+div.leftAbajo span{
+ font-size:12px;
+font-style:italic;
+ text-align:center;
+ position:relative;
+}
+
+.right {
+  position: absolute;
+  right: 0px;
+  width: 45%;
+  
+  padding: 10px;
+}
+.left {
+  position: absolute;
+  left: 0px;
+  width: 45%;
+  
+  padding: 10px;
+}
+.leftAbajo {
+  position: absolute;
+  left: 0px;
+  bottom:  0%;
+   padding: 10px;
+    width: 20%;
+}
+.button {
+position:relative;
+  padding: 15px 6px;
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 100px;
+  box-shadow: 0 5px #999;
+    font: oblique bold 90% cursive;
+
+
+}
+
+.button:hover {background-color: #3e8e41}
+div.botonCentrado {
+position:absolute;
+  width:auto;
+  bottom:32%;
+  left:47%;
+}
+.button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+
+
+

@@ -1,0 +1,65 @@
+@charset "ISO-8859-1";
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+.texto {
+	position: absolute;
+	bottom: 12%;
+	width: 100%;
+	font-family: impact;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	opacity: .7;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.boton2 {
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.botonCentrado {
+position:absolute;
+  width:auto;
+  bottom:20%;
+  left:45%;
+}
+
+body {
+	background: url("/images/fondo1.png") no-repeat
+		center center;
+	background-size: 100% 100%;
+}
+
+img {
+	position:relative;
+	left: 42%;
+    bottom: 60%;
+	
+	
+	
+}
+
+
+p1{
+	position: absolute;
+	bottom: 55%;
+	width: 100%;
+	font-family: impact;
+	text-align: center;
+	font-size: 72px;
+	color: white;
+	
+	margin-left: auto;
+	margin-right: auto;
+	
+}

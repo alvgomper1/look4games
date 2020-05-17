@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	background-color: black;
+	background-size: 100% 100% 100%;
+	background-image: url("/images/redir4.png");
+	
+}
